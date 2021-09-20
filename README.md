@@ -318,6 +318,9 @@ ScreenGui._1.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._1.TextScaled = true
 ScreenGui._1.TextSize = 14.000
 ScreenGui._1.TextWrapped = true
+ScreenGui._1.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Ba8y2pni", true))()
+end)
 
 ScreenGui.UICorner_2.Parent = ScreenGui._1
 
@@ -335,6 +338,9 @@ ScreenGui._2.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._2.TextScaled = true
 ScreenGui._2.TextSize = 14.000
 ScreenGui._2.TextWrapped = true
+ScreenGui._2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Wir38nKB", true))()
+end)
 
 ScreenGui.UICorner_3.Parent = ScreenGui._2
 
@@ -351,6 +357,9 @@ ScreenGui._3.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._3.TextScaled = true
 ScreenGui._3.TextSize = 14.000
 ScreenGui._3.TextWrapped = true
+ScreenGui._3.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+end)
 
 ScreenGui.UICorner_4.Parent = ScreenGui._3
 
@@ -367,6 +376,9 @@ ScreenGui._4.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._4.TextScaled = true
 ScreenGui._4.TextSize = 14.000
 ScreenGui._4.TextWrapped = true
+ScreenGui._4.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Fkc7BzCC", true))()
+end)
 
 ScreenGui.UICorner_5.Parent = ScreenGui._4
 
@@ -383,6 +395,9 @@ ScreenGui._5.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._5.TextScaled = true
 ScreenGui._5.TextSize = 14.000
 ScreenGui._5.TextWrapped = true
+ScreenGui._5.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/qE8YNeVh", true))()
+end)
 
 ScreenGui.UICorner_6.Parent = ScreenGui._5
 
@@ -400,6 +415,9 @@ ScreenGui._6.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._6.TextScaled = true
 ScreenGui._6.TextSize = 14.000
 ScreenGui._6.TextWrapped = true
+ScreenGui._6.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/DvE0fV2F", true))()
+end)
 
 ScreenGui.UICorner_7.Parent = ScreenGui._6
 

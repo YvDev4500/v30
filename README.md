@@ -1375,6 +1375,9 @@ ScreenGui._56.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._56.TextScaled = true
 ScreenGui._56.TextSize = 14.000
 ScreenGui._56.TextWrapped = true
+ScreenGui._56.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/idk/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_57.Parent = ScreenGui._56
 
@@ -1391,6 +1394,9 @@ ScreenGui._57.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._57.TextScaled = true
 ScreenGui._57.TextSize = 14.000
 ScreenGui._57.TextWrapped = true
+ScreenGui._57.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/haha/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_58.Parent = ScreenGui._57
 
@@ -1407,6 +1413,9 @@ ScreenGui._58.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._58.TextScaled = true
 ScreenGui._58.TextSize = 14.000
 ScreenGui._58.TextWrapped = true
+ScreenGui._58.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/GGG/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_59.Parent = ScreenGui._58
 
@@ -1423,6 +1432,9 @@ ScreenGui._59.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._59.TextScaled = true
 ScreenGui._59.TextSize = 14.000
 ScreenGui._59.TextWrapped = true
+ScreenGui._59.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/dev/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_60.Parent = ScreenGui._59
 
@@ -1439,6 +1451,9 @@ ScreenGui._60.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._60.TextScaled = true
 ScreenGui._60.TextSize = 14.000
 ScreenGui._60.TextWrapped = true
+ScreenGui._60.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/youjngvn/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_61.Parent = ScreenGui._60
 
@@ -1455,6 +1470,9 @@ ScreenGui._61.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._61.TextScaled = true
 ScreenGui._61.TextSize = 14.000
 ScreenGui._61.TextWrapped = true
+ScreenGui._61.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/cHmscXYK", true))()
+end)
 
 ScreenGui.UICorner_62.Parent = ScreenGui._61
 
@@ -1471,6 +1489,9 @@ ScreenGui._62.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._62.TextScaled = true
 ScreenGui._62.TextSize = 14.000
 ScreenGui._62.TextWrapped = true
+ScreenGui._62.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+end)
 
 ScreenGui.UICorner_63.Parent = ScreenGui._62
 
@@ -1487,6 +1508,9 @@ ScreenGui._63.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._63.TextScaled = true
 ScreenGui._63.TextSize = 14.000
 ScreenGui._63.TextWrapped = true
+ScreenGui._63.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/DDCPp3dT", true))()
+end)
 
 ScreenGui.UICorner_64.Parent = ScreenGui._63
 
@@ -1503,6 +1527,9 @@ ScreenGui._64.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._64.TextScaled = true
 ScreenGui._64.TextSize = 14.000
 ScreenGui._64.TextWrapped = true
+ScreenGui._64.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/RywH9k17", true))()
+end)
 
 ScreenGui.UICorner_65.Parent = ScreenGui._64
 
@@ -1519,6 +1546,9 @@ ScreenGui._65.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._65.TextScaled = true
 ScreenGui._65.TextSize = 14.000
 ScreenGui._65.TextWrapped = true
+ScreenGui._65.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/21krajUH", true))()
+end)
 
 ScreenGui.UICorner_66.Parent = ScreenGui._65
 
@@ -1535,6 +1565,9 @@ ScreenGui._66.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._66.TextScaled = true
 ScreenGui._66.TextSize = 14.000
 ScreenGui._66.TextWrapped = true
+ScreenGui._66.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Wpt1UQgd", true))()
+end)
 
 ScreenGui.UICorner_67.Parent = ScreenGui._66
 
@@ -1551,6 +1584,12 @@ ScreenGui._67.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._67.TextScaled = true
 ScreenGui._67.TextSize = 14.000
 ScreenGui._67.TextWrapped = true
+ScreenGui._67.MouseButton1Down:connect(function()
+	_G.Sonic = true  --false = Off // true = On
+
+	_G.Rebirth = true --false = Off // true = On [AutoRebirth]
+	loadstring(game:HttpGet("https://gist.githubusercontent.com/LimurTempest/34d9c78e6090e5e683402e81b8a8a722/raw/a36b6f0667e34feb5d0e4af30c14bc82682d0fac/SonicRedesign_LegendsOfSpeed", true))()
+end)
 
 ScreenGui.UICorner_68.Parent = ScreenGui._67
 
@@ -1567,6 +1606,9 @@ ScreenGui._68.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._68.TextScaled = true
 ScreenGui._68.TextSize = 14.000
 ScreenGui._68.TextWrapped = true
+ScreenGui._68.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+end)
 
 ScreenGui.UICorner_69.Parent = ScreenGui._68
 
@@ -1583,6 +1625,9 @@ ScreenGui._69.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._69.TextScaled = true
 ScreenGui._69.TextSize = 14.000
 ScreenGui._69.TextWrapped = true
+ScreenGui._69.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+end)
 
 ScreenGui.UICorner_70.Parent = ScreenGui._69
 
@@ -1599,6 +1644,9 @@ ScreenGui._70.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._70.TextScaled = true
 ScreenGui._70.TextSize = 14.000
 ScreenGui._70.TextWrapped = true
+ScreenGui._70.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/notclosure/new-years/main/happ.lua"))()
+end)
 
 ScreenGui.UICorner_71.Parent = ScreenGui._70
 
@@ -1615,6 +1663,9 @@ ScreenGui._71.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._71.TextScaled = true
 ScreenGui._71.TextSize = 14.000
 ScreenGui._71.TextWrapped = true
+ScreenGui._71.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/tgriufduiui/main/README.md"))()
+end)
 
 ScreenGui.UICorner_72.Parent = ScreenGui._71
 
@@ -1631,6 +1682,9 @@ ScreenGui._72.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._72.TextScaled = true
 ScreenGui._72.TextSize = 14.000
 ScreenGui._72.TextWrapped = true
+ScreenGui._72.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/0MqfXpvY", true))()
+end)
 
 ScreenGui.UICorner_73.Parent = ScreenGui._72
 
@@ -1647,6 +1701,9 @@ ScreenGui._73.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._73.TextScaled = true
 ScreenGui._73.TextSize = 14.000
 ScreenGui._73.TextWrapped = true
+ScreenGui._73.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/WC7MZ8Ai", true))()
+end)
 
 ScreenGui.UICorner_74.Parent = ScreenGui._73
 
@@ -1663,6 +1720,9 @@ ScreenGui._74.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._74.TextScaled = true
 ScreenGui._74.TextSize = 14.000
 ScreenGui._74.TextWrapped = true
+ScreenGui._74.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+end)
 
 ScreenGui.UICorner_75.Parent = ScreenGui._74
 
@@ -1679,6 +1739,9 @@ ScreenGui._75.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._75.TextScaled = true
 ScreenGui._75.TextSize = 14.000
 ScreenGui._75.TextWrapped = true
+ScreenGui._75.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://gist.githubusercontent.com/skid123skidlol/cd0d2dce51b3f20ad1aac941da06a1a1/raw/bd62009d461c948d466222f4f9333f9420130fbb/%257BFE%257D%2520Invisible%2520Tool%2520(can%2520hold%2520tools)",true))()
+end)
 
 ScreenGui.UICorner_76.Parent = ScreenGui._75
 
@@ -1695,6 +1758,9 @@ ScreenGui._76.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._76.TextScaled = true
 ScreenGui._76.TextSize = 14.000
 ScreenGui._76.TextWrapped = true
+ScreenGui._76.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/PRypDeUU", true))()
+end)
 
 ScreenGui.UICorner_77.Parent = ScreenGui._76
 
@@ -1711,6 +1777,9 @@ ScreenGui._77.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._77.TextScaled = true
 ScreenGui._77.TextSize = 14.000
 ScreenGui._77.TextWrapped = true
+ScreenGui._77.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/Vallater/SyntaxFE/fbbffe71caabfa5341bb0e09865c0659574978e8/GG.txt'),true))()
+end)
 
 ScreenGui.UICorner_78.Parent = ScreenGui._77
 

@@ -1810,11 +1810,14 @@ ScreenGui._79.Parent = ScreenGui.ScrollingFrame
 ScreenGui._79.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui._79.Size = UDim2.new(0, 330, 0, 55)
 ScreenGui._79.Font = Enum.Font.SourceSans
-ScreenGui._79.Text = "3"
+ScreenGui._79.Text = "Fates Admin"
 ScreenGui._79.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._79.TextScaled = true
 ScreenGui._79.TextSize = 14.000
 ScreenGui._79.TextWrapped = true
+ScreenGui._79.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+end)
 
 ScreenGui.UICorner_80.Parent = ScreenGui._79
 

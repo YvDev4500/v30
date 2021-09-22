@@ -1166,8 +1166,8 @@ ScreenGui._45.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._45.TextScaled = true
 ScreenGui._45.TextSize = 14.000
 ScreenGui._45.TextWrapped = true
-ScreenGui._44.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://the-shed.xyz/roblox/scripts/ChatBypass", true))()
+ScreenGui._45.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://the-shed.dev/scripts/sbp.lua", true))()
 end)
 
 ScreenGui.UICorner_46.Parent = ScreenGui._45

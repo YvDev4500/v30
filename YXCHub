@@ -1791,11 +1791,14 @@ ScreenGui._78.Parent = ScreenGui.ScrollingFrame
 ScreenGui._78.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui._78.Size = UDim2.new(0, 330, 0, 55)
 ScreenGui._78.Font = Enum.Font.SourceSans
-ScreenGui._78.Text = "3"
+ScreenGui._78.Text = "r6 Chilling"
 ScreenGui._78.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._78.TextScaled = true
 ScreenGui._78.TextSize = 14.000
 ScreenGui._78.TextWrapped = true
+ScreenGui._78.MouseButton1Down:connect(function()
+	loadstring(game:HttpGetAsync("https://pastebin.com/raw/XmHFdTij"))()
+end)
 
 ScreenGui.UICorner_79.Parent = ScreenGui._78
 

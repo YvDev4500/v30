@@ -1912,6 +1912,8 @@ ScreenGui.OPEN.TextColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui.OPEN.TextScaled = true
 ScreenGui.OPEN.TextSize = 14.000
 ScreenGui.OPEN.TextWrapped = true
+ScreenGui.OPEN.Active = true
+ScreenGui.OPEN.Draggable = true
 
 ScreenGui.UICorner_87.Parent = ScreenGui.OPEN
 

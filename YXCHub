@@ -1834,6 +1834,9 @@ ScreenGui._80.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._80.TextScaled = true
 ScreenGui._80.TextSize = 14.000
 ScreenGui._80.TextWrapped = true
+ScreenGui._80.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md", true))()
+end)
 
 ScreenGui.UICorner_81.Parent = ScreenGui._80
 

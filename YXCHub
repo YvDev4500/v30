@@ -1867,13 +1867,13 @@ ScreenGui._82.Parent = ScreenGui.ScrollingFrame
 ScreenGui._82.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ScreenGui._82.Size = UDim2.new(0, 330, 0, 55)
 ScreenGui._82.Font = Enum.Font.SourceSans
-ScreenGui._82.Text = "3"
+ScreenGui._82.Text = "BedWars "
 ScreenGui._82.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui._82.TextScaled = true
 ScreenGui._82.TextSize = 14.000
 ScreenGui._82.TextWrapped = true
 ScreenGui._82.MouseButton1Down:connect(function()
-	
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end)
 
 ScreenGui.UICorner_83.Parent = ScreenGui._82
